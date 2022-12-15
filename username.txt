@@ -16,3 +16,7 @@ ansible
 ec2-user
 vagrant
 azureuser
+webadmin
+sysadmin
+netadmin
+web
