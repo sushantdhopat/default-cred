@@ -21,3 +21,11 @@ sysadmin
 netadmin
 web
 Admin
+username
+manager
+monitor
+none
+secret
+anonymous
+superuser
+secoff
